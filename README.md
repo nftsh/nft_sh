@@ -146,9 +146,8 @@ NFT-SH.com是一款以山海经为题材的NFT卡牌游戏，由“集卡挖矿�
 >*LHP：0xe499ef4616993730ced0f31fa2703b92b50bb536*
 >*USDT：0xa71edc38d189767582c38a3145b5873052c3e47a*
 >*HLTC：0xecb56cf772b5c9a6907fb7d32387da2fcbfb63b4*
->HBCH：0xef3cebd77e0c52cb6f60875d9306397b5caca375
->HBSV：0xc2cb6b5357ccce1b99cd22232942d9a225ea4eb1
->HXTZ：0x45e97dad828ad735af1df0473fc2735f0fd5330c
+>*HBCH：0xef3cebd77e0c52cb6f60875d9306397b5caca375*
+>*HBSV：0xc2cb6b5357ccce1b99cd22232942d9a225ea4eb1
 ### 
 ### 4.2资产划转
 
