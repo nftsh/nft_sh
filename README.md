@@ -248,15 +248,15 @@ NFT-SH.com是一款以山海经为题材的NFT卡牌游戏，由“集卡挖矿�
 
 >HFIL：0xae3a768f9ab104c69a7cd6041fe16ffa235d1810
 
->*HDOT：0xa2c49cee16a5e5bdefde931107dc1fae9f7773e3
+>HDOT：0xa2c49cee16a5e5bdefde931107dc1fae9f7773e3
 
->*QTUM：0xc036fb5687a8c0ab438faa5c744b55fd705a0c56
+>QTUM：0xc036fb5687a8c0ab438faa5c744b55fd705a0c56
 
->*LHP：0xe499ef4616993730ced0f31fa2703b92b50bb536
+>LHP：0xe499ef4616993730ced0f31fa2703b92b50bb536
 
->*USDT：0xa71edc38d189767582c38a3145b5873052c3e47a
+>USDT：0xa71edc38d189767582c38a3145b5873052c3e47a
 
->*HLTC：0xecb56cf772b5c9a6907fb7d32387da2fcbfb63b4
+>HLTC：0xecb56cf772b5c9a6907fb7d32387da2fcbfb63b4
 
 >HBCH：0xef3cebd77e0c52cb6f60875d9306397b5caca375
 
@@ -285,7 +285,7 @@ NFT-SH.com是一款以山海经为题材的NFT卡牌游戏，由“集卡挖矿�
 
 登录nft-sh官网（.[https://nft-sh.com/](https://nft-sh.com/)）并选择“ Heco mainnet”→连接钱包.
 
-![图片](https://uploader.shimo.im/f/y70iRM5vh7Gs1z9m.png!thumbnail)
+![image](https://user-images.githubusercontent.com/83739334/117258351-73b12180-ae7f-11eb-9656-4e340715f77f.png)
 
 ## 2.如何获取卡片
 
@@ -293,31 +293,31 @@ NFT-SH.com是一款以山海经为题材的NFT卡牌游戏，由“集卡挖矿�
 
 点击抽卡商店，进入抽卡商店页面
 
-![图片](https://uploader.shimo.im/f/dTwPYNFEqrL4glTF.png!thumbnail)
+![image](https://user-images.githubusercontent.com/83739334/117258382-7e6bb680-ae7f-11eb-9255-f4732b518340.png)
 
 点击异兽蛋，进入获取页面
 
-![图片](https://uploader.shimo.im/f/HQ4Ajphr7Q22sMLt.png!thumbnail)
+![image](https://user-images.githubusercontent.com/83739334/117258718-d9051280-ae7f-11eb-84ff-c7466c63e06e.png)
 
 首先需要授权，才可以进行购买，确认授权
 
-![图片](https://uploader.shimo.im/f/EFLFMVVEhd4BuAoN.png!thumbnail)
+![image](https://user-images.githubusercontent.com/83739334/117258768-e6220180-ae7f-11eb-98bb-ac66ec1ec550.png)
 
 够买成功了，我们去卡包开蛋吧
 
-![图片](https://uploader.shimo.im/f/ztNyQ3pZFATM4cuY.png!thumbnail)
+![image](https://user-images.githubusercontent.com/83739334/117258801-f0dc9680-ae7f-11eb-9320-d976d7a87087.png)
 
 点击我的卡包，进入卡包页面
 
-![图片](https://uploader.shimo.im/f/6ANuYGD1YXOUEKpE.png!thumbnail)
+![image](https://user-images.githubusercontent.com/83739334/117258786-eae6b580-ae7f-11eb-99dd-7d35f4997291.png)
 
 要开了，是不是很激动呢？
 
-![图片](https://uploader.shimo.im/f/dPDvdAbMLHV0OLj7.png!thumbnail)
+![image](https://user-images.githubusercontent.com/83739334/117258748-e0c4b700-ae7f-11eb-8299-cd3ff2084d1f.png)
 
 还不错哦，一张地卡，2张玄卡，2张黄卡
 
-![图片](https://uploader.shimo.im/f/sET5qB0Cjnxb3nnj.png!thumbnail)
+![image](https://user-images.githubusercontent.com/83739334/117258836-fb972b80-ae7f-11eb-9a14-b947451eeb55.png)
 
 ## 3.如何重铸卡片
 
@@ -325,17 +325,17 @@ NFT-SH.com是一款以山海经为题材的NFT卡牌游戏，由“集卡挖矿�
 
 回到首页，点击卡片重铸，一共3种合成方式，此次使用玄阶卡牌升级
 
-### ![图片](https://uploader.shimo.im/f/Oi6347oTeR80a5wF.png!thumbnail)
+### ![image](https://user-images.githubusercontent.com/83739334/117259003-3305d800-ae80-11eb-9fc8-91fa71488db2.png)
 
-### ![图片](https://uploader.shimo.im/f/vu9NHVdaV3KEMPU2.png!thumbnail)
+### ![image](https://user-images.githubusercontent.com/83739334/117259029-3c8f4000-ae80-11eb-932d-4eb34cf40442.png)
 
 打开看看，是否升级成功了
 
-### ![图片](https://uploader.shimo.im/f/I675zP4jbuwkRKMx.png!thumbnail)
+### ![image](https://user-images.githubusercontent.com/83739334/117259046-431db780-ae80-11eb-8a74-c97d3a9a3454.png)
 
 好可惜呀，升级失败了
 
-![图片](https://uploader.shimo.im/f/cBIJvlD7KpUhMwc6.png!thumbnail)
+![image](https://user-images.githubusercontent.com/83739334/117259306-7d875480-ae80-11eb-8880-62e7fa6cee4f.png)
 
 ## 4.集卡挖矿
 
@@ -343,33 +343,33 @@ NFT-SH.com是一款以山海经为题材的NFT卡牌游戏，由“集卡挖矿�
 
 点击集卡挖矿
 
-![图片](https://uploader.shimo.im/f/Jk4EewnF1Tfzv1wQ.png!thumbnail)
+![image](https://user-images.githubusercontent.com/83739334/117259341-8415cc00-ae80-11eb-93c7-94ea1705bd4a.png)
 
 点击未放置的灰色卡牌
 
-![图片](https://uploader.shimo.im/f/mApuuyZ9Q4Y1UFRz.png!thumbnail)
+![image](https://user-images.githubusercontent.com/83739334/117259389-91cb5180-ae80-11eb-8b86-92f2cebba226.png)
 
 点击放置即可成功，就可以躺着挖矿
 
-![图片](https://uploader.shimo.im/f/ESukBjgjurWxzgxL.png!thumbnail)
+![image](https://user-images.githubusercontent.com/83739334/117259355-88da8000-ae80-11eb-9aa2-770f4a802f4c.png)
 
 ### 4.2批量放置
 
 点击批量放置，选择多张卡牌就可以啦，一次最多进行20张卡牌的放置哦。
 
-![图片](https://uploader.shimo.im/f/R53qP1dmSASKcJg7.png!thumbnail)
+![image](https://user-images.githubusercontent.com/83739334/117259420-97289c00-ae80-11eb-8f9b-f227b3800aa0.png)
 
 ### 4.3取回卡牌
 
 点击一个已经放置的卡牌，点击取回即可，也可以点击全部取回
 
-![图片](https://uploader.shimo.im/f/XCvRWkyWV8WDg4oR.png!thumbnail)
+![image](https://user-images.githubusercontent.com/83739334/117259464-a27bc780-ae80-11eb-89ff-b5dc17cc8d80.png)
 
 ### 4.4领取挖矿奖励
 
 点击立即领取即可收取所挖奖励
 
-![图片](https://uploader.shimo.im/f/lC8aIyjfqQxdGGpu.png!thumbnail)
+
 
 ## 5.交易市场
 
@@ -377,31 +377,32 @@ NFT-SH.com是一款以山海经为题材的NFT卡牌游戏，由“集卡挖矿�
 
 点击首页的交易市场
 
-![图片](https://uploader.shimo.im/f/v0wqXA2lB6k5AhLL.png!thumbnail)
+![image](https://user-images.githubusercontent.com/83739334/117259497-adcef300-ae80-11eb-9c82-18b35e9a6eef.png)
 
 点击挂单，选择出售的卡牌
 
-![图片](https://uploader.shimo.im/f/gpvEC0IYUwPemI5q.png!thumbnail)
+![image](https://user-images.githubusercontent.com/83739334/117259544-b8898800-ae80-11eb-9afa-dfdb9a627ea3.png)
 
 输入出售的币种，输入数量，点击挂单即可
 
-![图片](https://uploader.shimo.im/f/3sIZMabO2LACN4eZ.png!thumbnail)
+![image](https://user-images.githubusercontent.com/83739334/117259674-db1ba100-ae80-11eb-9ae9-55c41b8d31b4.png)
 
-![图片](https://uploader.shimo.im/f/6f35yQ1lOPh2gEih.png!thumbnail)
+![image](https://user-images.githubusercontent.com/83739334/117259692-e078eb80-ae80-11eb-9750-e9f099d2f5b3.png)
 
 ### 5.2如何撤销已经上架的订单
 
 在交易市场里，点击提现即可
 
-![图片](https://uploader.shimo.im/f/0QFcSGSgp0J6XiXu.png!thumbnail)
+![image](https://user-images.githubusercontent.com/83739334/117259769-f25a8e80-ae80-11eb-875e-92b97ab4f884.png)
 
 ### 5.3如何领取交易金
 
 在市场页面，点击我的订单，点击撤单即可，历史订单可以看到已售出和已撤消的订单
 
-![图片](https://uploader.shimo.im/f/IlPPglxLGgfOsGam.png!thumbnail)
+![image](https://user-images.githubusercontent.com/83739334/117261353-a0b30380-ae82-11eb-991c-509df2ac23ec.png)
 
-![图片](https://uploader.shimo.im/f/5Iynf4c6wBfG7fy4.png!thumbnail)
+![image](https://user-images.githubusercontent.com/83739334/117261387-a90b3e80-ae82-11eb-89ba-d55a8f840705.png)
+
 
 # 手机端教程（此处使用火币钱包示例）
 
@@ -409,9 +410,7 @@ NFT-SH.com是一款以山海经为题材的NFT卡牌游戏，由“集卡挖矿�
 
 打开火币钱包，选择HECO链，点击DAPP，输入NFT-SH.COM，前往，就成功登陆啦
 
-![图片](https://uploader.shimo.im/f/bIsIBpWrVv5n5Lxc.png!thumbnail)![图片](https://uploader.shimo.im/f/orFR5x2B7NZXSbho.png!thumbnail)
-
-![图片](https://uploader.shimo.im/f/uO9OjmwCvybqSQEd.png!thumbnail)![图片](https://uploader.shimo.im/f/tAw04mYUe2WmseP5.png!thumbnail)
+![image](https://user-images.githubusercontent.com/83739334/117261461-baece180-ae82-11eb-8fb1-da410044097a.png)![image](https://user-images.githubusercontent.com/83739334/117261523-d0faa200-ae82-11eb-9fa4-bb69ba66a989.png)
 
 ## 2.如何获取卡片
 
