@@ -481,7 +481,7 @@ NFT-SH.com是一款以山海经为题材的NFT卡牌游戏，由“集卡挖矿�
 
 <span class='gp-n'>
     <img src="https://user-images.githubusercontent.com/83739334/117276646-afed7d80-ae91-11eb-9d80-aef74d70be0f.png" width="35%" />
-    <img src="https://user-images.githubusercontent.com/83739334/117276738-c693d480-ae91-11eb-83bd-da29ec5f63e8.png" width="35%" />
+    <img src="https://user-images.githubusercontent.com/83739334/117282403-48d2c780-ae97-11eb-86b3-1ffdcdbf2f43.png" width="35%" />
 </span>
 
 点击灰色的卡牌，点击放置，调用合约通过，就放置成功了，然后就可以开始挖矿了
@@ -497,7 +497,7 @@ NFT-SH.com是一款以山海经为题材的NFT卡牌游戏，由“集卡挖矿�
 
 <span class='gp-n'>
     <img src="https://user-images.githubusercontent.com/83739334/117277508-884ae500-ae92-11eb-9950-57be70313382.png" width="35%" />
-    <img src="https://user-images.githubusercontent.com/83739334/117277600-9bf64b80-ae92-11eb-9a6f-57a48ae5f4c8.png" width="35%" />
+    <img src="https://user-images.githubusercontent.com/83739334/117277534-8ed95c80-ae92-11eb-9fd3-1e0adc1ff063.png" width="35%" />
 </span>
 
 ### 4.3取回卡牌
@@ -505,7 +505,7 @@ NFT-SH.com是一款以山海经为题材的NFT卡牌游戏，由“集卡挖矿�
 点击已放置的卡牌，点击取回即可，如果卡牌数量很多也可以点击全部取回哦。
 
 <span class='gp-n'>
-    <img src="https://user-images.githubusercontent.com/83739334/117277534-8ed95c80-ae92-11eb-9fd3-1e0adc1ff063.png" width="35%" />
+    <img src="https://user-images.githubusercontent.com/83739334/117282863-c7c80000-ae97-11eb-81b5-f4415a100a08.png" width="35%" />
     <img src="https://user-images.githubusercontent.com/83739334/117278036-fa232e80-ae92-11eb-826c-0dcaebb7d9ab.png" width="35%" />
 </span>
 
