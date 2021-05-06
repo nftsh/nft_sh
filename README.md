@@ -24,7 +24,8 @@ NFT-SH.com是一款以山海经为题材的NFT卡牌游戏，由“集卡挖矿�
 
 钱包下载地址[https://metamask.io/download.html](https://metamask.io/download.html?fileGuid=QWgD8CjD8wtyc9Xk)
 
-![图片](https://uploader.shimo.im/f/d9dwXAGjxIp9tSVK.png!thumbnail?fileGuid=QWgD8CjD8wtyc9Xk)
+![image](https://user-images.githubusercontent.com/83739334/117253808-372ef700-ae7a-11eb-8a22-b5720941d27f.png)
+
 
 ### 1.1 点击跳转安装页面：
 
