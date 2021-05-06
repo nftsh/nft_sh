@@ -360,19 +360,17 @@ NFT-SH.com是一款以山海经为题材的NFT卡牌游戏，由“集卡挖矿�
 
 ![image](https://user-images.githubusercontent.com/83739334/117259389-91cb5180-ae80-11eb-8b86-92f2cebba226.png)
 
-![image](https://user-images.githubusercontent.com/83739334/117259420-97289c00-ae80-11eb-8f9b-f227b3800aa0.png)
-
 ### 4.3取回卡牌
 
 点击一个已经放置的卡牌，点击取回即可，也可以点击全部取回
 
-![image](https://user-images.githubusercontent.com/83739334/117259464-a27bc780-ae80-11eb-89ff-b5dc17cc8d80.png)
+![image](https://user-images.githubusercontent.com/83739334/117264590-f4731c00-ae85-11eb-9959-87459678a9d8.png)
 
 ### 4.4领取挖矿奖励
 
 点击立即领取即可收取所挖奖励
 
-
+![image](https://user-images.githubusercontent.com/83739334/117259464-a27bc780-ae80-11eb-89ff-b5dc17cc8d80.png)
 
 ## 5.交易市场
 
