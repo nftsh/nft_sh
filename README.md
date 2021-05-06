@@ -395,15 +395,15 @@ NFT-SH.com是一款以山海经为题材的NFT卡牌游戏，由“集卡挖矿�
 
 在交易市场里，点击提现即可
 
-![image](https://user-images.githubusercontent.com/83739334/117259769-f25a8e80-ae80-11eb-875e-92b97ab4f884.png)
+![image](https://user-images.githubusercontent.com/83739334/117265854-3f416380-ae87-11eb-91bf-53f18ea0981e.png)
 
 ### 5.3如何撤销已经上架的订单
 
 在市场页面，点击我的订单，点击撤单即可，历史订单可以看到已售出和已撤消的订单
 
-![image](https://user-images.githubusercontent.com/83739334/117261353-a0b30380-ae82-11eb-991c-509df2ac23ec.png)
+![image](https://user-images.githubusercontent.com/83739334/117265875-449eae00-ae87-11eb-97b6-d0d50533d929.png)
 
-![image](https://user-images.githubusercontent.com/83739334/117261387-a90b3e80-ae82-11eb-89ba-d55a8f840705.png)
+![image](https://user-images.githubusercontent.com/83739334/117265971-5b450500-ae87-11eb-8170-30548c97cb8d.png)
 
 
 # 手机端教程（此处使用火币钱包示例）
@@ -412,7 +412,9 @@ NFT-SH.com是一款以山海经为题材的NFT卡牌游戏，由“集卡挖矿�
 
 打开火币钱包，选择HECO链，点击DAPP，输入NFT-SH.COM，前往，就成功登陆啦
 
-![image](https://user-images.githubusercontent.com/83739334/117261461-baece180-ae82-11eb-8fb1-da410044097a.png)![image](https://user-images.githubusercontent.com/83739334/117261523-d0faa200-ae82-11eb-9fa4-bb69ba66a989.png)
+<center class="half">
+<img src="https://user-images.githubusercontent.com/83739334/117266041-6ac44e00-ae87-11eb-9014-e2d8300b4ad4.png" width="35%%" /><img src="https://user-images.githubusercontent.com/83739334/117266054-6e57d500-ae87-11eb-802b-8ddb496825e9.png" width="35%" />
+</center>
 
 ## 2.如何获取卡片
 
