@@ -4,7 +4,7 @@ NFT-SH.com是一款以山海经为题材的NFT卡牌游戏，由“集卡挖矿�
 
 # **MetaMask钱包教程**
 
-(https://ugcimg.shimonote.com/uploader-cache/Q2GNNQIJj2ste0ts.png/thumbnail?auth_key=1620283350-dhs86XyGZ5k6fsTF-0-2c0c53c51fa37cf40898ab9097d4e005&response-content-disposition=inline%3B+filename%3D%22image.png%22%3B+filename%2A%3DUTF-8%27%27image.png)
+![图片](https://ugcimg.shimonote.com/uploader-cache/Q2GNNQIJj2ste0ts.png/thumbnail?auth_key=1620283350-dhs86XyGZ5k6fsTF-0-2c0c53c51fa37cf40898ab9097d4e005&response-content-disposition=inline%3B+filename%3D%22image.png%22%3B+filename%2A%3DUTF-8%27%27image.png)
 
 **背景**：MetaMask（小狐狸）是一款在谷歌浏览器Chrome上使用的插件类型的以太坊钱包，该钱包不需要下载，只需要在谷歌浏览器添加对应的扩展程序即可，非常轻量级，使用起来也非常方便。
 
