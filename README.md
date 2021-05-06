@@ -238,15 +238,32 @@ NFT-SH.com是一款以山海经为题材的NFT卡牌游戏，由“集卡挖矿�
 
 各种货币的合同地址如下：
 
->*HT((WHT)：0x5545153ccfca01fbd7dd11c0b23ba694d9509a6fHUSD：0x0298c2b32eae4da002a15f36fdf7615bea3da047HBTC：0x66a79d23e58475d2738179ca52cd0b41d73f0beaETH：0x64ff637fb478863b7468bc97d30a5bf3a428a1fdHFIL：0xae3a768f9ab104c69a7cd6041fe16ffa235d1810*
+>*HT((WHT)：0x5545153ccfca01fbd7dd11c0b23ba694d9509a6f
+
+>HUSD：0x0298c2b32eae4da002a15f36fdf7615bea3da047
+
+>HBTC：0x66a79d23e58475d2738179ca52cd0b41d73f0bea
+
+>ETH：0x64ff637fb478863b7468bc97d30a5bf3a428a1fd
+
+>HFIL：0xae3a768f9ab104c69a7cd6041fe16ffa235d1810*
+
 >*HDOT：0xa2c49cee16a5e5bdefde931107dc1fae9f7773e3*
+
 >*QTUM：0xc036fb5687a8c0ab438faa5c744b55fd705a0c56*
+
 >*LHP：0xe499ef4616993730ced0f31fa2703b92b50bb536*
+
 >*USDT：0xa71edc38d189767582c38a3145b5873052c3e47a*
+
 >*HLTC：0xecb56cf772b5c9a6907fb7d32387da2fcbfb63b4*
+
 >HBCH：0xef3cebd77e0c52cb6f60875d9306397b5caca375
+
 >HBSV：0xc2cb6b5357ccce1b99cd22232942d9a225ea4eb1
+
 >HXTZ：0x45e97dad828ad735af1df0473fc2735f0fd5330c
+
 ### 
 ### 3.2资产划转
 
