@@ -348,7 +348,7 @@ NFT-SH.com是一款以山海经为题材的NFT卡牌游戏，由“集卡挖矿�
 
 点击未放置的灰色卡牌
 
-![image](https://user-images.githubusercontent.com/83739334/117259389-91cb5180-ae80-11eb-8b86-92f2cebba226.png)
+![image](https://user-images.githubusercontent.com/83739334/117259341-8415cc00-ae80-11eb-93c7-94ea1705bd4a.png)
 
 点击放置即可成功，就可以躺着挖矿
 
@@ -358,7 +358,7 @@ NFT-SH.com是一款以山海经为题材的NFT卡牌游戏，由“集卡挖矿�
 
 点击批量放置，选择多张卡牌就可以啦，一次最多进行20张卡牌的放置哦。
 
-![image](https://user-images.githubusercontent.com/83739334/117259341-8415cc00-ae80-11eb-93c7-94ea1705bd4a.png)
+![image](https://user-images.githubusercontent.com/83739334/117259389-91cb5180-ae80-11eb-8b86-92f2cebba226.png)
 
 ![image](https://user-images.githubusercontent.com/83739334/117259420-97289c00-ae80-11eb-8f9b-f227b3800aa0.png)
 
