@@ -35,7 +35,7 @@ NFT-SH.com是一款以山海经为题材的NFT卡牌游戏，由“集卡挖矿�
 
 点击安装（add to chrome），完成后你的浏览器右上角就会出现小狐狸了
 
-![图片](https://uploader.shimo.im/f/gWHC20ayEWbWQDH6.png!thumbnail?fileGuid=QWgD8CjD8wtyc9Xk)
+![image](https://user-images.githubusercontent.com/83739334/117254013-7bba9280-ae7a-11eb-8703-990ba2ff7a40.png)
 
 ## 2. 初始设置MetaMask
 
@@ -43,7 +43,7 @@ NFT-SH.com是一款以山海经为题材的NFT卡牌游戏，由“集卡挖矿�
 
  浏览器成功安装MetaMask扩展后，扩展程序上就会有MetaMask的图标，此时点击进入。
 
-![图片](https://uploader.shimo.im/f/0jAYaQKmVGGmDxNl.png!thumbnail?fileGuid=QWgD8CjD8wtyc9Xk)
+![image](https://user-images.githubusercontent.com/83739334/117254052-87a65480-ae7a-11eb-80f8-700349c2225e.png)
 
 如果浏览器没有默认显示，请点击【扩展程序】（拼图碎片图标），点击 MetaMask后方的【图钉图标】
 
@@ -54,20 +54,20 @@ NFT-SH.com是一款以山海经为题材的NFT卡牌游戏，由“集卡挖矿�
 * 已有钱包的用户可以通过点击“导入钱包”，通过助记词导入钱包；
 * 没有钱包或者想创建新钱包的用户可以点击“创建钱包”，创建新的ETH钱包；
 
-![图片](https://uploader.shimo.im/f/8noUB7NW9KjWydlZ.png!thumbnail?fileGuid=QWgD8CjD8wtyc9Xk)
+![image](https://user-images.githubusercontent.com/83739334/117254128-9ab92480-ae7a-11eb-8605-9db86f80d9aa.png)
 
 **导入钱包：**
 
 需要输入助记词和新密码，勾选统一使用条款
 
-![图片](https://uploader.shimo.im/f/scmUHp5GIK9Hd68t.png!thumbnail?fileGuid=QWgD8CjD8wtyc9Xk)
+![image](https://user-images.githubusercontent.com/83739334/117254153-a3115f80-ae7a-11eb-82dc-031c17ce2cb6.png)
 
 
 **新建钱包：**
 
 需要输入密码，并再次确认相同的密码
 
-![图片](https://uploader.shimo.im/f/3Ah3lbft4tpSvG0I.png!thumbnail?fileGuid=QWgD8CjD8wtyc9Xk)
+![image](https://user-images.githubusercontent.com/83739334/117254203-b1f81200-ae7a-11eb-8bc0-4b97978aa485.png)
 
 
 在下一个页面，将展示出你的钱包助记词（密语）
@@ -78,12 +78,11 @@ NFT-SH.com是一款以山海经为题材的NFT卡牌游戏，由“集卡挖矿�
 
 **确认备份助记词页面**
 
-![图片](https://uploader.shimo.im/f/g6OYO7GpU0UhRnFb.png!thumbnail?fileGuid=QWgD8CjD8wtyc9Xk)
+![image](https://user-images.githubusercontent.com/83739334/117254222-bb817a00-ae7a-11eb-8243-89ceee193102.png)
 
 
 在这个页面可以根据已经备份的助记词，按照顺序勾选词组，进行确认
-
-![图片](https://uploader.shimo.im/f/Y8yaRPUuFryNn4mt.png!thumbnail?fileGuid=QWgD8CjD8wtyc9Xk)
+![image](https://user-images.githubusercontent.com/83739334/117254234-c0462e00-ae7a-11eb-8ddd-cb799de4dce9.png)
 
 全部完成后，即可正常使用MetaMask钱包。
 
