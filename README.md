@@ -382,21 +382,22 @@ NFT-SH.com是一款以山海经为题材的NFT卡牌游戏，由“集卡挖矿�
 
 点击挂单，选择出售的卡牌
 
-![image](https://user-images.githubusercontent.com/83739334/117259544-b8898800-ae80-11eb-9afa-dfdb9a627ea3.png)
+![image](https://user-images.githubusercontent.com/83739334/117265194-8ed35f80-ae86-11eb-91cb-c00480321dd0.png)
+
 
 输入出售的币种，输入数量，点击挂单即可
 
-![image](https://user-images.githubusercontent.com/83739334/117259674-db1ba100-ae80-11eb-9ae9-55c41b8d31b4.png)
+![image](https://user-images.githubusercontent.com/83739334/117265318-b1fe0f00-ae86-11eb-8748-b8b8559032a9.png)
+![image](https://user-images.githubusercontent.com/83739334/117265433-d0640a80-ae86-11eb-9d09-a94472529cb4.png)
 
-![image](https://user-images.githubusercontent.com/83739334/117259692-e078eb80-ae80-11eb-9750-e9f099d2f5b3.png)
 
-### 5.2如何撤销已经上架的订单
+### 5.2如何领取交易金
 
 在交易市场里，点击提现即可
 
 ![image](https://user-images.githubusercontent.com/83739334/117259769-f25a8e80-ae80-11eb-875e-92b97ab4f884.png)
 
-### 5.3如何领取交易金
+### 5.3如何撤销已经上架的订单
 
 在市场页面，点击我的订单，点击撤单即可，历史订单可以看到已售出和已撤消的订单
 
